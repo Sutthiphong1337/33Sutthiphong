@@ -1,0 +1,22 @@
+h1 {
+  color: rgb(128, 255, 0);
+}
+h2 {
+  color: rgb(255, 255, 255);
+}
+a {
+  color: rgb(115, 2, 117);
+}
+
+div.container {
+  text-align: center;
+}
+
+ul.myUL {
+  display: inline-block;
+  text-align: left;
+}
+ol.myol {
+    display: inline-block;
+    text-align: left;
+  }
